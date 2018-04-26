@@ -16,6 +16,11 @@ public class MapList{
         list.add(new Map("Tau Cross"));
         list.add(new Map("Sniper Ridge"));
         list.add(new Map("Lost Temple"));
+        list.add(new Map("Electric Circuit"));
+        list.add(new Map("Rush Hour"));
+        list.add(new Map("Icarus"));
+        list.add(new Map("Colloseum"));
+        list.add(new Map("Aztec"));
     }
 
 
